@@ -145,7 +145,21 @@ opacity: 50%;
 opacity: 0.4;
 }
 
+.blubar {
+width: 100%;
+background-image: url('../img/10.jpg');
+height: 34px;
 
+
+}
+
+.greybar {
+width: 100%;
+background-image: url('../img/7.jpg');
+height: 34px;
+
+
+}
 /* HEADER */
 
 #logo {
