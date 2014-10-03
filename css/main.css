@@ -35,6 +35,7 @@ background-color: white;
 border: 8px solid white;
 height: 1539px;
 background-image: url('../img/9.jpg');
+border-radius: 15px;
 }
 
 
@@ -72,6 +73,7 @@ font-size: 20px;
 font-family: open sans condensed;
 font-weight: bold;
 margin-bottom: 15px;
+border-radius: 4px;
 }
 
 .title:hover {
@@ -153,13 +155,6 @@ height: 34px;
 
 }
 
-.greybar {
-width: 100%;
-background-image: url('../img/7.jpg');
-height: 34px;
-
-
-}
 /* HEADER */
 
 #logo {
