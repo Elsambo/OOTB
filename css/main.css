@@ -222,7 +222,9 @@ font-weight: bold;
 
 .navright li a:hover {
 color: #815277;
-font-size: 30px;
+text-decoration:  overline ;
+
+font-weight: bold;
 }
 
 
